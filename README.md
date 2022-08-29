@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @luxiao0803
+- 👋 Hi, I’m @luxiao
 - 👀 I’m interested in Java
 - 🌱 I’m currently learning Java basics
 - 💞️ I’m looking to collaborate on ...
